@@ -1,0 +1,11 @@
+
+@media only screen and (min-width: 600px) { .header {
+   padding:  65px 80px 0px 80px;
+}}
+@media only screen and (max-width: 600px) { .header {padding: 24px 24px 0px;}}
+@media only screen and (min-width: 600px) {
+.footer { padding-top: 92px; padding-left: 80px; padding-right: 260px; padding-bottom: 86px;}
+}
+@media only screen and (max-width: 600px) {
+   .footer {padding: 65px 39px 42px;}
+}

@@ -1,0 +1,8 @@
+.button:hover { background: #6C9BFF;
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.15925);
+    border-radius: 3.125px; transition-duration: .8s ; cursor: pointer; }
+.main__div2__div__a:hover {
+    color: #71DFCC;
+    transition-duration: .5s}
+.footer__a--hover:hover {color: #6C9BFF; transition-duration: .3s; }
+.icon--sm:hover { color: #6C9BFF; border-color: #6C9BFF; transition-duration: .3s; }

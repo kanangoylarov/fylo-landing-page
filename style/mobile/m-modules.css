@@ -1,0 +1,40 @@
+.header { display: flex; justify-content: space-between; }
+.header__div__a { margin-left: 25px;}
+.main__div1 {padding:98px 28px 90px ; display: flex; flex-direction: column-reverse; justify-content: center;}
+.main__div1__div {text-align: center;}
+.main__div1__div__h2 { margin: 40px 0px 24px;}
+.main__div1__div__p {margin-bottom: 32px; padding: 0px 8px;}
+.main__div1__div__form {padding: 0 8px ; display: flex; flex-direction: column;}
+.main__div1__div__form__input { padding: 14px 21px; margin-bottom: 16px;}
+.main__div1__div__form__button {padding: 12px 0px; border: none; background: #2F65F8;
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.15925);
+    border-radius: 3.125px;}
+.main__div2 {display: flex; flex-direction: column;}
+.main__div2--bg {display: flex; flex-direction: column-reverse;}
+.main__div2__img {padding: 45px 27px 87px;}
+.main__div2__div__div { text-align: center;}
+.main__div2__div__h2 { margin-bottom: 24px;}
+.main__div2__div__p {padding: 0 20px; margin-bottom: 16px; }
+.main__div2__div__a { display: inline-block; margin: 40px 0px;}
+.q {display: block; padding: 0px 48px 81px;}
+.q__div { padding: 18px 25px; background: #FFFFFF;
+    box-shadow: 0px 0px 8px 4px rgba(56, 56, 56, 0.0458843);
+    border-radius: 3.93258px;}
+.q__span {display: flex; justify-content: flex-start; margin-top: 12px;}
+.q__span__img { height: 24px; width: 24px; border-radius: 50%; margin-right: 7.5px;}
+.main__div3__div {text-align: center;}
+.main__div3__div__h3 { padding:  54px 48px 16px;}
+.main__div3__div__p { padding: 0px 48px ; margin-bottom: 24px;}
+.main__div3__form { padding: 0px 66px 71px; display: flex; flex-direction: column; }
+.main__div3__form__input { margin-bottom: 8px; background: #FFFFFF;
+    box-shadow: 1px 1px 3px rgba(7, 4, 59, 0.157043);
+    border-radius: 1.47059px; padding: 11px 8px; border: none;}
+.main__div3__form__button {background: #2F65F8;
+    box-shadow: 1px 1px 3px rgba(7, 4, 59, 0.157043);
+    border-radius: 1.47059px; border: none;  padding: 11px 0px;}
+.footer__img {margin-bottom: 32px;}
+.footer__nav {display: flex; flex-direction: column;}
+.footer__nav__div {display: inline-flex; flex-direction: column; margin-bottom: 32px;}
+.footer__nav__div__span1 {margin-bottom: 16px;}
+.footer__a {  align-self: flex-start; margin-bottom: 16px;}
+.sosialmedia {align-self: center;}
